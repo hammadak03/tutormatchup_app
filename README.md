@@ -1,16 +1,31 @@
-# tutor_matchup
+# 📚 TutorMatchup
 
-A new Flutter project which connects students with neraby tutors and let them acknowledge their schedule and qualification, moreover, also create class schedules where they can join tutor's schedule at their required location.
+**A hybrid mobile application connecting students with qualified, nearby tutors.**  
+Built using **Flutter** with **Firebase** for backend services.
 
-## Getting Started
+## 🔧 Tech Stack
+- **Frontend**: Flutter (Dart)
+- **Backend/DB**: Firebase Auth, Firestore, Firebase Storage
+- **Other Tools**: Haversine formula (for nearby tutor matching)
 
-This project is a starting point for a Flutter application.
+## 🔑 Key Contributions
+- Designed and developed the **complete frontend**
+- Integrated **Firebase Authentication**
+- Implemented data storage with **Cloud Firestore & Firebase Storage**
+- UI focused on **usability** and **efficient navigation**
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Core Features
+- **Student & Tutor Signup/Login**
+- **Tutor Discovery**: Find nearby tutors based on location
+- **In-Person Connection**: Matches tutors and students within same city/locality
+- **Ratings & Reviews**: Identify top tutors from student feedback
+- **Profile Management**: Update, edit, delete accounts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📈 Unique Points
+- One platform for both **students & tutors**
+- Haversine formula to calculate **nearest tutors**
+- Combines online discovery with **in-person education**
+- Aligns with **SDGs** (Sustainable Development Goals)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📽 Demo
+[Demo Video (Google Drive)](https://drive.google.com/file/d/1B_j9gicJSM5P_R5TWZ_8seStajf3zLrZ/view?usp=drive_link)
