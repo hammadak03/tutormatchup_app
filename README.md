@@ -29,3 +29,8 @@ Built using **Flutter** with **Firebase** for backend services.
 
 ## 📽 Demo
 [Demo Video (Google Drive)](https://drive.google.com/file/d/1B_j9gicJSM5P_R5TWZ_8seStajf3zLrZ/view?usp=drive_link)
+
+## 📊 Project Flow
+![Methodology Diagram](assets/methodology.png)
+
+---
